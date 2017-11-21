@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testGitFromVsMac", "testGitFromVsMac\testGitFromVsMac.csproj", "{B565ECF8-F1DA-456B-91F7-15E3D43D9AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testGitFromVsMac.Tests", "testGitFromVsMac.Tests\testGitFromVsMac.Tests.csproj", "{3D0EA9E3-E624-4893-981D-273534024D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testgitconsoleapp", "testgitconsoleapp\testgitconsoleapp.csproj", "{E4DE5AE5-390E-4A58-95FE-D86C7E1CC0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B565ECF8-F1DA-456B-91F7-15E3D43D9AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B565ECF8-F1DA-456B-91F7-15E3D43D9AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B565ECF8-F1DA-456B-91F7-15E3D43D9AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B565ECF8-F1DA-456B-91F7-15E3D43D9AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0EA9E3-E624-4893-981D-273534024D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0EA9E3-E624-4893-981D-273534024D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0EA9E3-E624-4893-981D-273534024D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0EA9E3-E624-4893-981D-273534024D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4DE5AE5-390E-4A58-95FE-D86C7E1CC0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DE5AE5-390E-4A58-95FE-D86C7E1CC0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DE5AE5-390E-4A58-95FE-D86C7E1CC0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DE5AE5-390E-4A58-95FE-D86C7E1CC0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
